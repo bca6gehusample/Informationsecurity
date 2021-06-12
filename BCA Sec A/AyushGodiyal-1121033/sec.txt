@@ -1,8 +1,0 @@
-Network security is a broad term that covers a multitude of technologies, 
-devices and processes. In its simplest term, it is a set of rules and 
-configurations designed to protect the integrity, confidentiality and 
-accessibility of computer networks and data using both software and 
-hardware technologies. Every organization, regardless of size, industry 
-or infrastructure, requires a degree of network security solutions in
- place to protect it from the ever-growing landscape of cyber threats 
-in the wild today.
