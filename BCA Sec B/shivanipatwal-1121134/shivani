@@ -1,1 +1,18 @@
+Q. WHAT IS SECURITY?
+A. Computer security basically is the protection of computer systems and information from harm, theft, and unauthorized use. It is the process of preventing and detecting unauthorized use of your computer system.
+There are various types of computer security which is widely used to protect the valuable information of an organization.
+One way to ascertain the similarities and differences among Computer Security is by asking what is being secured. For example,
+•	Information security is securing information from unauthorized access, modification & deletion
+•	Application Security is securing an application by building security features to prevent from Cyber Threats such as SQL injection, DoS attacks, data breaches and etc.
+•	Computer Security means securing a standalone machine by keeping it updated and patched
+•	Network Security is by securing both the software and hardware technologies
+•	Cybersecurity is defined as protecting computer systems, which communicate over the computer networks
+It’s important to understand the distinction between these words, though there isn’t necessarily a clear consensus on the meanings and the degree to which they overlap or are interchangeable.
+ 
+So, computer security can be defined as controls that are put in place to provide confidentiality, integrity, and availability for all components of computer systems. Let’s elaborate the definition.
+Components of computer system
+The components of a computer system that needs to be protected are:
+•	Hardware, the physical part of the computer, like the system memory and disk drive
+•	Firmware, permanent software that is etched into a hardware device’s non-volatile memory and is mostly invisible to the user
+•	Software, the programming that offers services, like operating system, word processor, internet browser to the user 
 
